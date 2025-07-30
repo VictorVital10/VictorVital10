@@ -1,7 +1,7 @@
 ```bash
 ┌──(VV10㉿Terminal)-[~/home]
 └─$ whoami
-Victor Vital | Security Information | Linux | NIST | SIEM | Cloud
+Victor Vital | Segurança da Informação | Cloud Security | Linux | IAM
 ```
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+|+VictorVital10;IT+professional+focusing+on+Cybersecurity." alt="Typing SVG" />
