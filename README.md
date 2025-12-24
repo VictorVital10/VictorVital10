@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Sou Victor, Estagiário de TI e graduando em Segurança da Informação, com foco em Cloud, Infraestrutura e DevOps. <br><br>Utilizo este perfil como portfólio técnico, onde documento projetos, estudos e minha evolução prática.</h4>
+<h3 align="left">Sou Victor, Estagiário de TI e graduando em Segurança da Informação, com foco em Cloud, Infraestrutura e DevOps. <br><br>Utilizo este perfil como portfólio técnico, onde documento projetos, estudos e minha evolução prática.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🎓 Graduando em Segurança da Informação.<br>💼 Estagiário de TI.<br>🌍 Inglês avançado (6 anos de estudo).<br>📜 Certificações oficiais (Microsoft, Google e Oracle).<br>📚 Atualmente estudando Cloud, Infraestrutura e DevOps.<br>🎲 Hobbies: Esportes e Música.</h4>
+<h3 align="left">🎓 Graduando em Segurança da Informação.<br>💼 Estagiário de TI.<br>🌍 Inglês avançado (6 anos de estudo).<br>📜 Certificações oficiais (Microsoft, Google e Oracle).<br>📚 Atualmente estudando Cloud, Infraestrutura e DevOps.<br>🎲 Hobbies: Esportes e Música.</h3>
 
 ###
 
@@ -40,6 +40,6 @@
 
 ###
 
-<h4 align="left">- 💼 LinkedIn: [Victor Vital](https://www.linkedin.com/in/victorvitall/)<br>- 📧 Email: v.vital03@outlook.com</h4>
+<h3 align="left">- 💼 LinkedIn: [Victor Vital](https://www.linkedin.com/in/victorvitall/)<br>- 📧 Email: [v.vital03@outlook.com] (mailto:v.vital03@outlook.com)</h3>
 
 ###
