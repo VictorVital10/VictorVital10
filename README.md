@@ -1,36 +1,45 @@
-# Victor Vital
+<h1 align="left">Olá, Como vai? 👋</h1>
 
-### DevOps | Cloud | Cybersecurity
+###
 
----
+<h4 align="left">Sou Victor, Estagiário de TI e graduando em Segurança da Informação, com foco em Cloud, Infraestrutura e DevOps. <br><br>Utilizo este perfil como portfólio técnico, onde documento projetos, estudos e minha evolução prática.</h4>
 
-🚀 Sou um profissional de Tecnolgia focado em **DevOps, Cloud e Cybersecurity**, trabalhando com Automação, Infraestrutura como Código, Contêinerização, Monitoramento e Serviços em Cloud.
+###
 
+<h1 align="left">Sobre mim 👨‍💻</h1>
 
----
+###
 
-### 🛠️ Principais Tecnologias
+<h4 align="left">🎓 Graduando em Segurança da Informação.<br>💼 Estagiário de TI.<br>🌍 Inglês avançado (6 anos de estudo).<br>📜 Certificações oficiais (Microsoft, Google e Oracle).<br>📚 Atualmente estudando Cloud, Infraestrutura e DevOps.<br>🎲 Hobbies: Esportes e Música.</h4>
 
-**Linux · AWS · Docker · Terraform · Git · Python · Prometheus** 
+###
 
-<p align="left">
+<h1 align="left">Principais Tecnologias 💻</h1>
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+###
 
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42" alt="amazonwebservices logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="42" alt="docker logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="42" alt="terraform logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="42" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="42" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="42" alt="prometheus logo"  />
+</div>
 
----
+###
 
-<h3>🌐 Conecte-se comigo:</h3>
+<h1 align="left">Contato 📫</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VictorVital-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/victorvitall/)
+###
 
-[![Credly](https://img.shields.io/badge/Badges-Credly-F36D25?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/victor-vital.91eff746)
+<h4 align="left">- 💼 LinkedIn: [Victor Vital](https://www.linkedin.com/in/victorvitall/)<br>- 📧 Email: v.vital03@outlook.com</h4>
 
----
+###
