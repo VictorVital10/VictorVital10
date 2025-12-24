@@ -40,6 +40,11 @@
 
 ###
 
-<h3 align="left">- 💼 LinkedIn: [Victor Vital](https://www.linkedin.com/in/victorvitall/)<br>- 📧 Email: [v.vital03@outlook.com] (mailto:v.vital03@outlook.com)</h3>
+<h3 align="left">
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/victorvitall/">linkedin.com/in/victorvitall</a><br>
+📧 <b>Email:</b> <a href="mailto:v.vital03@outlook.com">v.vital03@outlook.com</a>
+</h3>
+
+
 
 ###
